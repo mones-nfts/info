@@ -1,4 +1,6 @@
 # Mones Project info
+![](images/icons/mones-icon-200x200px.png)
+
 Mones is a Hero-collecting RPG where you collect over 200 hero characters, turn them into
 skilled warriors through training then fight in PvE/PvP battles to take over the kingdom.
 
